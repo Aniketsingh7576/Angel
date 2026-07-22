@@ -1,7 +1,5 @@
 # Angel Public School — website
 
-> Part of a multi-school repository — see the [root README](../README.md).
-
 A static website for **Angel Public School** (Principal: **Santosh Chand Ji**), built to
 mirror the layout and design language of [stanford.edu](https://www.stanford.edu/).
 
@@ -15,7 +13,6 @@ python3 -m http.server 8000
 ## Files
 
 ```
-photos-source/      Original unedited photographs
 index.html          Homepage — mirrors Stanford's section order
 about.html          Vision & mission, Principal's message, faculty
 academics.html      Curriculum by wing, streams, assessment, homework policy
@@ -114,11 +111,11 @@ grep -rn "\[Month\|\[amount\|\[Board\|\[age" *.html
 Every image slot on the site now uses one of your three usable photos, re-cropped
 to a different region each time so the repeats aren't obvious. **23 crops** from:
 
-- `photos-source/1.jpg` — full-school assembly (students, flag)
-- `photos-source/471741574…jpg` — school building with signboard
-- `photos-source/532422009…jpg` — staff and guests at the flag hoisting
+- `1.jpg` — full-school assembly (students, flag)
+- `471741574…jpg` — school building with signboard
+- `532422009…jpg` — staff and guests at the flag hoisting
 
-`photos-source/2.jpg` is **not used** — at 414×414px it is too small for any slot. Send the
+`2.jpg` is **not used** — at 414×414px it is too small for any slot. Send the
 original if you want it in.
 
 #### ⚠️ Stand-ins that do not match their label
