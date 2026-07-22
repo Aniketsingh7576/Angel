@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" width="360" height="64" role="img" aria-label="Angel Public School">
+  <g transform="translate(6,6)">
+    <path d="M26 0 L52 20 L52 52 L0 52 L0 20 Z" fill="#8c1515"/>
+    <path d="M26 6 L46 21.5 L46 46 L6 46 L6 21.5 Z" fill="#ffffff" opacity="0.14"/>
+    <path d="M26 14 l4.8 9.8 10.8 1.6 -7.8 7.6 1.8 10.7 -9.6 -5 -9.6 5 1.8 -10.7 -7.8 -7.6 10.8 -1.6 z"
+          fill="#fedd5c"/>
+  </g>
+  <text x="72" y="27" font-family="'Source Serif 4',Georgia,serif" font-size="25" font-weight="600" fill="#8c1515">Angel</text>
+  <text x="150" y="27" font-family="'Source Serif 4',Georgia,serif" font-size="25" font-weight="400" fill="#2e2d29">Public School</text>
+  <text x="72" y="47" font-family="'Source Sans 3',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#6d6c69" letter-spacing="1.8">…THE POWER OF FAITH</text>
+</svg>

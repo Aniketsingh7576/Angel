@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Athletics placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7a863b"/>
+      <stop offset="100%" stop-color="#4d5525"/>
+    </linearGradient>
+    <pattern id="p" width="56" height="56" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <rect width="56" height="56" fill="none"/>
+      <circle cx="10" cy="10" r="1.6" fill="#ffffff" opacity="0.16"/>
+      <path d="M0 40 H56" stroke="#ffffff" stroke-opacity="0.07" stroke-width="10"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect width="800" height="600" fill="url(#p)"/>
+  <g opacity="0.5" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="3">
+    <path d="M80 516 l72 -96 l72 96 z"/>
+    <path d="M592 420 h128 v96 h-128 z"/>
+  </g>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Source Sans 3','Helvetica Neue',Arial,sans-serif"
+        font-size="45" font-weight="600" fill="#ffffff" fill-opacity="0.9"
+        letter-spacing="2">Athletics</text>
+  <text x="50%" y="351" text-anchor="middle"
+        font-family="'Source Sans 3','Helvetica Neue',Arial,sans-serif"
+        font-size="14" font-weight="400" fill="#ffffff" fill-opacity="0.55"
+        letter-spacing="2">REPLACE WITH PHOTO</text>
+</svg>

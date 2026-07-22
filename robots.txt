@@ -1,0 +1,7 @@
+# Angel Public School
+# Replace the domain below with the real one before deploying.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://angelpublicschool.in/sitemap.xml
