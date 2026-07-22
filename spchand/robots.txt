@@ -1,0 +1,7 @@
+# S.P. Chand Convent School
+# Replace the domain below with the real one before deploying.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://spchandconvent.in/sitemap.xml

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 64" width="430" height="64" role="img" aria-label="S.P.Chand Convent School">
+  <g transform="translate(6,6)">
+    <path d="M26 0 L52 14 L52 38 Q52 48 26 52 Q0 48 0 38 L0 14 Z" fill="#1b3b6f"/>
+    <path d="M26 6 L46 17 L46 37 Q46 43 26 46 Q6 43 6 37 L6 17 Z" fill="#ffffff" opacity="0.13"/>
+    <path d="M15 30 h22 M26 19 v22" stroke="#e8a33d" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="72" y="27" font-family="'Source Serif 4',Georgia,serif" font-size="24">
+    <tspan font-weight="600" fill="#1b3b6f">S.P.Chand</tspan><tspan font-weight="400" fill="#2e2d29" dx="9">Convent School</tspan>
+  </text>
+  <text x="72" y="47" font-family="'Source Sans 3',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#6d6c69" letter-spacing="2.4">DEORIA · UTTAR PRADESH</text>
+</svg>

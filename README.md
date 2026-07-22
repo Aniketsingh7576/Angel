@@ -8,13 +8,15 @@ deployed, edited or removed without touching the others.
 
 | Folder | School | Status |
 |---|---|---|
-| [`angel-public/`](angel-public/) | **Angel Public School** — Mundera Chand, Deoria, Uttar Pradesh 274206 | Built · awaiting real fee/date data |
+| [`angel-public/`](angel-public/) | **Angel Public School** — Mundera Chand, Deoria, Uttar Pradesh 274206 | Built · real photos in · awaiting fee/date data |
+| [`spchand/`](spchand/) | **S.P.Chand Convent School** — Deoria, Uttar Pradesh | Scaffolded · placeholder content and images |
 
 ## Layout
 
 ```
 .
 ├── angel-public/            ← one folder per school
+│   │                        (spchand/ has the same shape)
 │   ├── index.html           home
 │   ├── about.html           vision, mission, principal, faculty
 │   ├── academics.html       curriculum by wing, assessment, homework
